@@ -1,4 +1,2 @@
 # test
-this is a test 
-ssssssss
-ssssddddsdsd
+这是一个测试的git项目
